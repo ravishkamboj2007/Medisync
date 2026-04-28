@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+bcrypt==3.2.2
+python-jose[cryptography]
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-core
+faiss-cpu
+pydantic[email]
+email-validator
+google-generativeai
